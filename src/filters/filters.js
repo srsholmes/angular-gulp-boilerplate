@@ -6,4 +6,4 @@
 
 
 
-})(window,document,window.angular,'WallpaperSearch','filters');
+})(window,document,window.angular,'myApp','filters');

@@ -10,4 +10,4 @@
 
     }]);
 
-})(window,document,navigator,window.angular,'WallpaperSearch');
+})(window,document,navigator,window.angular,'myApp');

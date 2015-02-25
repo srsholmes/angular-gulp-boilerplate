@@ -226,15 +226,7 @@ $c(Va),w(X).ready(function(){Xc(X,fc)}))})(window,document);!window.angular.$$cs
 
     }]);
 
-})(window,document,navigator,window.angular,'WallpaperSearch');
-(function(w,d,ng,ns,m) {
-
-    'use strict';
-
-    var app = ng.module( ns + '.' + m, [ns + '.services']);
-
-
-})(window,document,window.angular,'WallpaperSearch','directives');
+})(window,document,navigator,window.angular,'myApp');
 (function(w,d,ng,ns,m) {
 
     'use strict';
@@ -252,7 +244,15 @@ $c(Va),w(X).ready(function(){Xc(X,fc)}))})(window,document);!window.angular.$$cs
     }]);
 
 
-})(window,document,window.angular,'WallpaperSearch','controllers');
+})(window,document,window.angular,'myApp','controllers');
+(function(w,d,ng,ns,m) {
+
+    'use strict';
+
+    var app = ng.module( ns + '.' + m, [ns + '.services']);
+
+
+})(window,document,window.angular,'myApp','directives');
 (function(w,d,ng,ns,m) {
 
     'use strict';
@@ -261,7 +261,7 @@ $c(Va),w(X).ready(function(){Xc(X,fc)}))})(window,document);!window.angular.$$cs
 
 
 
-})(window,document,window.angular,'WallpaperSearch','filters');
+})(window,document,window.angular,'myApp','filters');
 
 (function(w,d,ng,ns,m) {
 
@@ -274,7 +274,7 @@ $c(Va),w(X).ready(function(){Xc(X,fc)}))})(window,document);!window.angular.$$cs
 
 
 
-})(window,document,window.angular,'WallpaperSearch','services');
+})(window,document,window.angular,'myApp','services');
 /*
  * angular-ui-bootstrap
  * http://angular-ui.github.io/bootstrap/

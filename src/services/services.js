@@ -9,4 +9,4 @@
 
 
 
-})(window,document,window.angular,'WallpaperSearch','services');
+})(window,document,window.angular,'myApp','services');

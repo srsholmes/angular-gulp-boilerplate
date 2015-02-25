@@ -5,4 +5,4 @@
     var app = ng.module( ns + '.' + m, [ns + '.services']);
 
 
-})(window,document,window.angular,'WallpaperSearch','directives');
+})(window,document,window.angular,'myApp','directives');
