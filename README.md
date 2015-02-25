@@ -1,2 +1,2 @@
-# angular-gulp-boilerplate
-An angular boilerplate with gulp as a task runner.
+# angular-wallpaper-search
+A web application to search for wallpapers built with Angular
